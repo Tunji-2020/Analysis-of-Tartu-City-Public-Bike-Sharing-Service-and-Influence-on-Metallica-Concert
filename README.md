@@ -1,3 +1,5 @@
+[Group_M15_report.pdf](https://github.com/Tunji-2020/Analysis-of-Tartu-City-Public-Bike-Sharing-Service-and-Influence-on-Metallica-Concert/files/6250660/Group_M15_report.pdf)
 # Analysis-of-Tartu-City-Public-Bike-Sharing-Service-and-Influence-on-Metallica-Concert
 Tartu City Bike Sharing Service is an innovative program of providing rental bicycles in inner urban areas, which differ from traditional mostly leisure-oriented bicycl e rental services.This systems provide residents (or tourists) with a fast and easy access to public bicycles that can be used for daily mobility. The public bike sharing system operates a number of fixed bike stations from which bicycles can be picked up and dropped off within the urban settlement of  Tartu. The bike stations have docking station and service terminal for system access,users registration, rental and docking of bike for return and charging. Access to bicycles is open to the general public at a rental fee.
-[Data scincee poster.pdf](https://github.com/Tunji-2020/Analysis-of-Tartu-City-Public-Bike-Sharing-Service-and-Influence-on-Metallica-Concert/files/6250646/Data.scincee.poster.pdf)
+[Tartu City Bike Sharing Report Poster.pdf](https://github.com/Tunji-2020/Analysis-of-Tartu-City-Public-Bike-Sharing-Service-and-Influence-on-Metallica-Concert/files/6250675/Tartu.City.Bike.Sharing.Report.Poster.pdf)
+
